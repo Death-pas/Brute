@@ -12,7 +12,7 @@ init()
 
 # Colored ASCII Art
 ASCII_ART = f"""
-{Fore.CYAN}██████╗ {Fore.YELLOW}█████╗ {Fore.CYAN}██╗{Fore.YELLOW}  ██╗        {Fore.CYAN}██████╗ {Fore.YELLOW}█████╗ {Fore.CYAN}██╗   ██╗{Fore.YELLOW}████████╗{Fore.CYAN}███████╗
+{Fore.CYAN}██████╗ {Fore.YELLOW}█████╗ {Fore.CYAN}██╗{Fore.YELLOW}   ██╗        {Fore.CYAN}██████╗ {Fore.YELLOW}█████╗ {Fore.CYAN}██╗   ██╗{Fore.YELLOW}████████╗{Fore.CYAN}███████╗
 {Fore.CYAN}██╔══██╗{Fore.YELLOW}██╔══██╗{Fore.CYAN}╚██╗{Fore.YELLOW}██╔╝        {Fore.CYAN}██╔══██╗{Fore.YELLOW}██╔══██╗{Fore.CYAN}██║   ██║{Fore.YELLOW}╚══██╔══╝{Fore.CYAN}██╔════╝
 {Fore.CYAN}██████╔╝{Fore.YELLOW}██████╔╝ {Fore.CYAN}╚███╔╝         {Fore.CYAN}██████╔╝{Fore.YELLOW}██████╔╝{Fore.CYAN}██║   ██║   {Fore.YELLOW}██║   {Fore.CYAN}████╗  
 {Fore.CYAN}██╔══██╗{Fore.YELLOW}██╔══██╗ {Fore.CYAN}██╔██╗         {Fore.CYAN}██╔══██╗{Fore.YELLOW}██╔══██╗{Fore.CYAN}██║   ██║   {Fore.YELLOW}██║   {Fore.CYAN}██╔══╝  
